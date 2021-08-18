@@ -14,7 +14,10 @@ Playlist Remix is an iOS app that builds a playlist of a Spotify user's mostly r
 
 ## Dependencies
 
-None
+- SwiftyJSON
+- URLImage
+- AlertToast
+- SpotifyLogin
 
 ## Running the project
 
