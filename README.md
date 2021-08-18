@@ -3,7 +3,7 @@
 Playlist Remix is an iOS app that builds a playlist of a Spotify user's mostly recently added tracks across all their playlists.
 
 <p align="row">
-<img src= "https://jsanand.com/assets/img/recentsios.gif" width="300">
+<img src= "https://jsanand.com/assets/img/recentsgithub.gif" width="300">
 </p>
 
 
